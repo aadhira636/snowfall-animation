@@ -8,6 +8,6 @@ class Snowfall{
     display()
     {
         imageMode(CENTER);
-        image(snowimage,this.snowfall.position.x,this.snowfall.position.y,10,10);
+        image(snowimage,this.snowfall.position.x,this.snowfall.position.y,15,15);
     }
 }
